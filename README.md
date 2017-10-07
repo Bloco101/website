@@ -1,2 +1,2 @@
 # About Bloco101
-High quality content producer about blockchain technology. The website is written in Portuguese and addresses this language market. Our aim is to provide accurate and critical content that can enhance public understanding of cryptocurrencies and blockchain technology.
+Our aim to be a high quality content producer, featuring in-depth articles, guides and news about the blockchain technology. This project addresses the Portuguese language market all over the world. For that reason every content is written in Portuguese. We struggle to provide accurate and critical content that can enhance public understanding of cryptocurrencies and blockchain technology.
